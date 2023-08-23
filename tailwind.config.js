@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "bg-image": "url('./src/assets/bg.jpg')",
+        "bg-image": "url('/bg.jpg')",
       },
       dropShadow: {
         baseText: "0px 4px 4px rgba(0, 0, 0, 0.25)",
